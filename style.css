@@ -128,7 +128,7 @@
     .slider {
         position: absolute;
         inset: 40px 40px 200px 40px;
-        background: #5a4444;
+        background: #fff;
         border-radius: 20px;
     }
     .slider .slides {
