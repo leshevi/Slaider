@@ -71,8 +71,6 @@
 }
 .buttons {
     position: absolute;
-    top: 600px;
-    left: 300px;
     bottom: 15px;
     display: flex;
     gap: 25px;
